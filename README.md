@@ -66,7 +66,7 @@ Each game entry looks like this:
   "gameplay": 9,
   "revisitability": 3,
   "last_played": "2024-11-02",
-  "tags": \["metroidvania", "indie"],
+  "tags": ["metroidvania", "indie"],
   "notes": "Incredible atmosphere."
 }
 ```
