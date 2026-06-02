@@ -81,7 +81,7 @@ Each game entry looks like this:
 |`graphics`|0–10|Visual quality|
 |`gameplay`|0–10|How fun it is to play|
 |`revisitability`|0–3|Never / Rarely / Sometimes / Often|
-|`last\_played`|date or null|Date last marked as played|
+|`last_played`|date or null|Date last marked as played|
 |`tags`|list|Comma-separated labels|
 |`notes`|string|Free-form notes|
 
