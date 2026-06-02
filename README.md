@@ -36,7 +36,7 @@ pip install questionary colorama
 
 ```bash
 git clone https://github.com/dustedge/libra.git
-cd game-library
+cd libra
 pip install questionary colorama
 ```
 
