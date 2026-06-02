@@ -2,7 +2,6 @@
 
 A terminal-based personal game collection manager. 
 
-\---
 
 ## Features
 
@@ -14,7 +13,6 @@ A terminal-based personal game collection manager.
 * **Forgotten favorite** — surfaces your highest-rated game that you haven't played in the longest time
 * **Mark as played** — updates the last-played date to today
 
-\---
 
 ## Prerequisites
 
@@ -31,7 +29,6 @@ pip install questionary colorama
 |`questionary`|Interactive CLI prompts and menus|
 |`colorama`|Cross-platform colored terminal output|
 
-\---
 
 ## Installation
 
@@ -41,9 +38,12 @@ cd game-library
 pip install questionary colorama
 ```
 
-\---
 
 ## Usage
+
+Run "Start Libra.lnk" or main.py
+
+or
 
 ```bash
 python main.py
@@ -51,7 +51,6 @@ python main.py
 
 Use arrow keys to navigate the menu and Enter to select. Your game data is saved automatically to `data.json` in the project directory.
 
-\---
 
 ## Data Storage
 
@@ -84,7 +83,6 @@ Each game entry looks like this:
 |`tags`|list|Comma-separated labels|
 |`notes`|string|Free-form notes|
 
-\---
 
 ## Project Structure
 
