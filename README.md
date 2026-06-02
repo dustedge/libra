@@ -43,7 +43,7 @@ pip install questionary colorama
 
 ## Usage
 
-Run "Start Libra.lnk" or main.py
+Run file ```main.py```
 
 or
 
