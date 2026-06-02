@@ -1,3 +1,6 @@
 *.json
 __pycache__/*
 *.lnk
+build/*
+dist/*
+*.spec
