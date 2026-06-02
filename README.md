@@ -43,10 +43,12 @@ pip install questionary colorama
 
 ## Usage
 
-Run file ```main.py```
+### Windows
+1. Download [lastest release](https://github.com/dustedge/libra/releases/tag/release)
+2. Extract and run
 
-or
-
+### Other
+Either run main.py or in CLI: 
 ```bash
 python main.py
 ```
