@@ -89,7 +89,7 @@ Each game entry looks like this:
 ## Project Structure
 
 ```
-game-library/
+libra/
 ├── main.py       # Entry point and menu loop
 ├── actions.py    # All game collection operations
 ├── storage.py    # JSON read/write
