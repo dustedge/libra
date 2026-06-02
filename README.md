@@ -1,6 +1,8 @@
 # 🎮 Libra
 
+<p align=center><img width="634" height="604" alt="image" src="https://github.com/user-attachments/assets/ea5f3739-046b-4c3e-9909-f008187ca005" /></p>
 A terminal-based personal game collection manager. 
+
 
 
 ## Features
