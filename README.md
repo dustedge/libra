@@ -34,6 +34,11 @@ pip install questionary colorama
 
 ## Installation
 
+### Windows
+1. Download [lastest release](https://github.com/dustedge/libra/releases/tag/release)
+2. Extract and run
+
+### Other OS
 ```bash
 git clone https://github.com/dustedge/libra.git
 cd libra
@@ -43,18 +48,9 @@ pip install questionary colorama
 
 ## Usage
 
-### Windows
-1. Download [lastest release](https://github.com/dustedge/libra/releases/tag/release)
-2. Extract and run
-
-### Other
-Either run main.py or in CLI: 
-```bash
-python main.py
-```
+Run main.py or use bundled Libra.exe for Windows release
 
 Use arrow keys to navigate the menu and Enter to select. Your game data is saved automatically to `data.json` in the project directory.
-
 
 ## Data Storage
 
